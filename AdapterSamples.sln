@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvoiceAdapterSample", "InvoiceAdapterSample\InvoiceAdapterSample.csproj", "{40C3A1BE-A78D-4860-B595-221449B2848D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaymentSample", "PaymentSample\PaymentSample.csproj", "{93790406-4AB8-441C-880B-7B7F7C2E800E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40C3A1BE-A78D-4860-B595-221449B2848D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40C3A1BE-A78D-4860-B595-221449B2848D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40C3A1BE-A78D-4860-B595-221449B2848D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40C3A1BE-A78D-4860-B595-221449B2848D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93790406-4AB8-441C-880B-7B7F7C2E800E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93790406-4AB8-441C-880B-7B7F7C2E800E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93790406-4AB8-441C-880B-7B7F7C2E800E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93790406-4AB8-441C-880B-7B7F7C2E800E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
